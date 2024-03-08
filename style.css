@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+#input-container {
+    text-align: center;
+}
+
+#textInput {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#startButton {
+    padding: 10px 20px;
+    cursor: pointer;
+}
